@@ -1,0 +1,73 @@
+20EC5203  ELECTRONIC DESIGN PROJECT- I
+MODULE 1 - TEMPERATURE CONTROLED FAN 
+
+<ABSTRACT>
+
+Improving comfort and energy efficiency is the role of a fan with temperature controlthat adjusts its speed according to room temperature, guaranteeing best flow of air aswell as less wastefulness associated with additional
+power usage for cooling. The fanthat regulates temperature offers a more comfortable environment and improvedefficiency when it varies the flow of air depending on the surrounding temperatures.This technology helps to maintain 
+ideal conditions in rooms, limits energy usage, andstops overheating which all result into better indoor air quality and comfort as well.Current solutions for temperature-controlled fans include thermostatic switches and smart 
+fan controllers that adjust speed based on temperature. Limitations involvedelayed response to temperature changes, inconsistent performance, and potentialcompatibility issues with various fan models and systems.
+
+<INTRODUCTION>
+
+The Temperature-Controlled Fan Project is a practical and innovative initiative aimedat developing an intelligent cooling system that automatically adjusts its speed basedon the surrounding temperature. This project is 
+designed to provide an energyefficient and user-friendly solution for maintaining comfortable indoor environmentsin various settings, such as homes, offices, and commercial spaces. By integratingtemperature sensing and 
+automated control mechanisms, the system ensures optimalcooling performance while minimizing energy consumption and operational costs.The core idea behind this project is to address the limitations of traditional fans,
+whichrequire manual adjustments and often operate inefficiently, leading to unnecessarypower usage. Using components such as a temperature sensor (e.g., thermistor), amicrocontroller for decision-making, and a fan with 
+variable speed control, the systemcontinuously monitors ambient temperature and adjusts the fan's speed accordingly[1]. It demonstrates the application of modern technology in creating smarter appliances,aligning with
+the growing demand for energy-efficient solutions in both residential and commercial domains. By successfully implementing this project, users gainvaluable insights into the principles of sensor-based systems, embedded 
+programming,and energy optimization[2]. This project is not just a practical tool but a stepping stone toward building more advanced and intelligent climate control systems.
+
+<OBJECTIVE AND SCOPE>
+
+*OBJECTIVE
+--->Enhance indoor comfort by maintaining optimal airflow and temperature.
+--->Minimize energy consumption by dynamically regulating fan speed according to environmental conditions.
+
+*SCOPE
+SYSTEM DESIGN: Developing a hardware and software solution integrating temperature sensors, microcontrollers, and motor control units.
+ENERGY EFFICIENCY: Ensuring low power consumption through intelligent speed adjustments and optimizing the system for minimal energy waste.
+
+<HARDWARE COMPONENTS>
+
+Thermistor - 1
+Preset - 10k (1)
+Motor - 12V DC (1)
+Battery - 9V (1)
+IRF3504 - 1
+Motor with fan - 1
+Connecting wire - As required
+
+<ADVANTAGES & APPLICATIONS>
+
+*ADVANTAGES
+--->Reduces energy consumption by operating only when needed.
+--->Automatically adjusts fan speed based on temperature changes.
+--->Uses inexpensive and easily available components.
+--->Compact and space-saving design for small setups.
+--->Provides reliable and accurate temperature control.
+
+*APPLICATIONS
+--->Cooling components like CPUs, power supplies, and amplifiers in electroniccircuits.
+--->Temperature-controlled fans in heaters, air purifiers, and refrigerators.
+--->Cooling car engines or electronic components in vehicles.
+--->Maintaining optimal temperature for plant growth by regulating ventilation.
+--->Cooling machinery or control panels in manufacturing units.
+
+<CONCLUSION>
+
+The Temperature-Controlled Fan and Touch On-Off Sensor Switch serve asexcellent demonstrations of how recent advancements in technology can significantlyenhance functionality, improve energy efficiency, and 
+provide greater convenience forusers. The Temperature-Controlled Fan project showcases how simple componentslike a thermistor, operational amplifier, and MOSFET can be effectively used to createa dynamic 
+fan-speed control system based on ambient temperature. This designpromotes energy efficiency by automating the fan’s operation, responding totemperature changes without requiring manual intervention. It 
+also addressesenvironmental considerations by reducing unnecessary power consumption, offering aglimpse into how intelligent climate control systems can be developed in the future.The incorporation of 
+sensors and automation into circuit designs not only improvessystem performance but also represents an important step towards smarter and moresustainable solutions.
+
+<REFERENCES>
+
+1. Ahn, J., & Cho, S. (2017). "Dead-band vs. machine-learning control systems:Analysis of control benefits and energy efficiency." Journal of BuildingEngineering, 12, 17–25.
+2. Bhatia, V., & Bhatia, G. (2013). "Room temperature-based fan speed controlsystem using pulse width modulation technique." International Journal ofComputer Applications, vol.81, no.5, pp.35–38.
+3. Fan, M., Tanaka, D., & Serikawa, S. (2016). "Proposal of Triggered TouchSwitch Model with High Accuracy." (JITCE), vol. 4, no. 2, pp. 94–99.
+4. Inoue, S., Yamawaki, A., & Serikawa, S. (2013). "A Flexible Touch Switchwith Arbitrary Shape and Arrangement." Journal of the Institute of IndustrialApplications Engineers, vol. 1, no. 2, pp. 52–55.
+5. Kawano, H., & Serikawa, S. (2016). "Proposal of the Improved Touch PanelSwitch Having High Flexibility." (JITCE), vol. 4, no. 3, pp. 148–152.
+
+THANK YOU
